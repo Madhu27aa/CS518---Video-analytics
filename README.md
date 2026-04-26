@@ -390,8 +390,3 @@ Direct writes to Drive via `shutil.copy2()` or `open()` silently fail on large t
 
 ---
 
-## Repository
-
-**Google Drive:** `DLCV_OV_Analytics/`  
-**Course:** CS 518 — Deep Learning for Computer Vision  
-**Institution:** [Your University]
